@@ -525,7 +525,7 @@ function createPromise(position, delay) {
             else reject(`❌ Rejected promise ${position} in ${delay}ms`);
         }, delay);
     });
-}
+} /*dfadaca*/ 
 
 },{"notiflix/build/notiflix-notify-aio":"eXQLZ"}],"eXQLZ":[function(require,module,exports) {
 var global = arguments[3];
